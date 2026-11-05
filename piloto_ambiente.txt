@@ -1,0 +1,8 @@
+Data: 2026-11-05 14:53:52
+Sistema: Windows 10 AMD64
+Processador: Intel64 Family 6 Model 165 Stepping 3, GenuineIntel
+Python: 3.11.15
+gcc: gcc (MinGW.org GCC-6.3.0-1) 6.3.0
+Java: openjdk version "25.0.4.1" 2026-08-18 LTS
+Parametros: blocos=1 lote=8 reps=3 seed=2026
+
